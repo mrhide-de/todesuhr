@@ -5,4 +5,8 @@ Kubis Todesuhr - count down clock till the end
 
 platform: ESP8266 with e-ink paper display
 
-custom made font
+features:
+* user input for target date
+* can count forward and backwards
+* custom made font
+* alert sign for anniversary
